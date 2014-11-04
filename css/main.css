@@ -49,3 +49,22 @@ body {
 .ryu-throwing {
   background-image: url('../images/ryu-throwing-hadouken.png');
 }
+
+.ryu-cool {
+  background-image: url('../images/ryu-cool.gif')
+}
+
+.text{
+  position: absolute;
+  left: 650px;
+  height: 425px;
+  width: 600px;
+  padding-top: 75px;
+}
+
+.instructions p {
+  width: 50%;
+  color: black;
+  font-size: 24px;
+  line-height: 45px;
+}
